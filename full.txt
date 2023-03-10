@@ -3,3 +3,4 @@ JekaMod
 Modules
 RyanGolsing
 StathamQuote
+CryptoStonks
