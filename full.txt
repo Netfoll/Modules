@@ -1,5 +1,2 @@
 JekaMod
-Modules
-RyanGolsing
-StathamQuote
 cryptostonks
