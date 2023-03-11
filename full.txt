@@ -2,4 +2,4 @@ JekaMod
 Modules
 RyanGolsing
 StathamQuote
-CryptoStonks
+cryptostonks
