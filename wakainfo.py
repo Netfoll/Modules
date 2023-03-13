@@ -29,7 +29,7 @@ from telethon import events
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 
 from .. import loader, utils
-__version__ = (1, 0, 0)
+__version__ = (1, 0, 1)
 
 key = 'el~Au}CxYdJ0shEkSKTraDC1lFtGCzKbdIgvPwJLoGFTYhM6Ve#$Lso~UnGnN%W4X3zGm5WF*CHMZsgkIR9@hm?NQs7V'
 
